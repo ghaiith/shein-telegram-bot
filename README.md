@@ -1,11 +1,24 @@
 # SheinBot - Telegram Bot for Shein Products
 
-<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/1.PNG" width="200">
-<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/2.PNG" width="200">
-<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/3.PNG" width="200">
-<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/4.PNG" width="200">
 
 SheinBot is a Telegram bot that allows you to search for products on Shein using keywords. It utilizes the Shein API to fetch product details and provides you with information about the products along with images.
+
+<table>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/1.PNG" width="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/2.PNG" width="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/3.PNG" width="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/4.PNG" width="200">
+    </td>
+  </tr>
+</table>
 
 ## Features
 
