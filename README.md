@@ -1,9 +1,9 @@
 # SheinBot - Telegram Bot for Shein Products
 
-<img src="https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Examples/1.PNG " width="200">
-<img src="https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Examples/2.PNG " width="200">
-<img src="https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Examples/3.PNG " width="200">
-<img src="https://github.com/ghaiith/Youtube-to-Mp3-TelegramBot/blob/main/Examples/4.PNG " width="200">
+<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/1.PNG" width="200">
+<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/2.PNG" width="200">
+<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/3.PNG" width="200">
+<img src="https://github.com/ghaiith/shein-telegram-bot/blob/main/Examples/4.PNG" width="200">
 
 SheinBot is a Telegram bot that allows you to search for products on Shein using keywords. It utilizes the Shein API to fetch product details and provides you with information about the products along with images.
 
@@ -33,7 +33,7 @@ To use SheinBot, follow the steps below:
 
 3. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/shein-telegram-bot.git
+   git clone https://github.com/ghaiith/shein-telegram-bot.git
    cd shein-telegram-bot
    ```
 
@@ -43,12 +43,12 @@ To use SheinBot, follow the steps below:
    ```
 
 5. **Configure the Bot:**
-   - Open the `bot.py` file and replace `YOUR_TELEGRAM_BOT_TOKEN` with the Telegram bot token obtained from BotFather.
+   - Open the `main.py` file and replace `YOUR_TELEGRAM_BOT_TOKEN` with the Telegram bot token obtained from BotFather.
    - Replace `YOUR_RAPIDAPI_KEY` with the Shein API key obtained from the RapidAPI platform.
 
 6. **Run the Bot:**
    ```
-   python bot.py
+   python main.py
    ```
 
 7. **Interact with the Bot:**
@@ -61,7 +61,7 @@ To use SheinBot, follow the steps below:
 We welcome contributions from the community to make SheinBot even better. To contribute, follow these steps:
 
 1. Fork the repository on GitHub.
-2. Clone your forked repository (`git clone https://github.com/your-username/shein-telegram-bot.git`).
+2. Clone your forked repository (`git clone https://github.com/ghaiith/shein-telegram-bot.git`).
 3. Create a new branch for your feature or bug fix (`git checkout -b new-feature`).
 4. Make your changes and commit them (`git commit -m "Add new feature"`).
 5. Push the changes to your forked repository (`git push origin new-feature`).
@@ -76,7 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 This Telegram bot is developed using the unofficial Shein API. It is not affiliated with or endorsed by Shein or Telegram. Use it at your own risk.
 
 ---
-
-![SheinBot Screenshot](sheinbot_screenshot.png)
-
-You can copy the content above and replace `YOUR_TELEGRAM_BOT_TOKEN` and `YOUR_RAPIDAPI_KEY` with your actual bot token and Shein API key, respectively. The updated README includes a logo and a screenshot to make it more visually appealing. Additionally, it provides clear instructions on how to contribute to the project, making it easier for others to get involved. Feel free to further customize the README to fit your project's style and needs.
