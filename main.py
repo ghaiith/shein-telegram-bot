@@ -27,7 +27,7 @@ def search_shein_product(keywords):
     data = response.json()
     return data['info']['products']
 
-@bot.message_handler(commands=['start', 'help'])
+@bot.message_handler(commands=['start', 'help','hello'])
 def send_welcome(message):
     bot.reply_to(message, "Welcome! Send me the product keyword, and I'll find it for you.")
 
